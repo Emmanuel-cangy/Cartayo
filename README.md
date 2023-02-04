@@ -18,3 +18,7 @@ python manage.py migrate
 python manage.py createsuperuser
 
 don't forget to go into /admin
+
+TO RUN THE SERVER RUN 
+
+python manage.py runserver
